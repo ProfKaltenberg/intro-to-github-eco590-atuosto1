@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sxWkgh75)
 # :wave: The Basics of GitHub 
-
+Helllooooooooooooooo i hope this ends up being legendary 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
@@ -88,6 +88,7 @@ To learn more about following users, read ["Following People"](https://docs.gith
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
+
 
 ## 📝 Optional next steps 
 
